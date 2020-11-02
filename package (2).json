@@ -1,0 +1,16 @@
+{
+  "name": "majo.alitasypapas",
+  "version": "1.0.0",
+  "description": "mi negocio web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maria jose salgado cornelio <pusha1996@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jquery-mobile": "^1.5.0-alpha.1",
+    "bulma": "^0.9.1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "majo/alitasypapas",
+    "description": "mi negocio web",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Majo-salgado",
+            "email": "71830148+Majo-salgado@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^4.5"
+    }
+}
